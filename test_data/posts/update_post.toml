@@ -1,8 +1,25 @@
-[[posts]]
-title = "Not on my watch."
+[[users]]
+name = "Ekaaksh Gowda"
+email = ""
+gender = "male"
+status = "inactive"
+
+[[users]]
+name = "Aasa Adiga"
+email = ""
+gender = "female"
+status = "inactive"
 
 [[posts]]
 user_id = ""
+title = "Vitiosus voluptate quia sollicito nostrum cibo."
+body = "Absconditus uppellex tot. Certe dolor spero. Debitis trans onqueror."
 
-[[posts]]
+[[to_update]]
+title = "Not on my watch."
+
+[[to_update]]
+user_id = ""
+
+[[to_update]]
 body = "Cum defigo cattus. Confido inventore delinquo. Assumenda admiratio adhaero. Molestias corrupti collum. Antiquus beatae vapulus. Carmen repellat placeat. Aliquid sursum esse. Curo talis carcer. Trucido thermae voluptatum. Qui eius vinco. Thalassinus tabula colligo. Cupio et audio. Adsidue bellum summisse. Suscipio architecto verecundia. Utroque aut canonicus. Abstergo sublime strenuus."

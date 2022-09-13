@@ -1,8 +1,29 @@
+[[users]]
+name = "Aagam Chaturvedi"
+email = ""
+gender = "female"
+status = "inactive"
+
+[[users]]
+name = "Ekaaksh Gowda"
+email = ""
+gender = "male"
+status = "inactive"
+
 [[todos]]
+user_id = ""
+title = "Vacuus commodo summisse sopor aut torqueo tabella voluptas vester."
+due_on = "2022-09-14T00:00:00.000+05:30"
+status = "completed"
+
+[[to_update]]
 title = "Not on my watch."
 
-[[todos]]
+[[to_update]]
 due_on = "2022-08-14T00:00:00.000+05:30"
 
-[[todos]]
+[[to_update]]
 status = "completed"
+
+[[to_update]]
+user_id = ""
