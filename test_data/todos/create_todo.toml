@@ -3,9 +3,3 @@ name = "Aagam Chaturvedi"
 email = ""
 gender = "female"
 status = "inactive"
-
-[[to_create]]
-user_id = ""
-title = "Vacuus commodo summisse sopor aut torqueo tabella voluptas vester."
-due_on = "2022-08-14T00:00:00.000+05:30"
-status = "completed"
