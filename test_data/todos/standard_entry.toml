@@ -1,3 +1,63 @@
+[[users]]
+name = "test_name"
+gender = "male"
+email = ""
+status = "active"
+
+[[users]]
+name = "Ekaaksh Gowda"
+email = ""
+gender = "male"
+status = "inactive"
+
+[[users]]
+name = "Aagam Chaturvedi"
+email = ""
+gender = "female"
+status = "inactive"
+
+[[users]]
+name = "Aasa Adiga"
+email = ""
+gender = "female"
+status = "inactive"
+
+[[users]]
+name = "Deeptiman Ahuja III"
+email = ""
+gender = "male"
+status = "active"
+
+[[users]]
+name = "Ekalavya Rana"
+email = ""
+gender = "female"
+status = "active"
+
+[[users]]
+name = "Sujata Shukla"
+email = ""
+gender = "female"
+status = "inactive"
+
+[[users]]
+name = "Sher Jain"
+email = ""
+gender = "female"
+status = "active"
+
+[[users]]
+name = "Rohana Butt"
+email = ""
+gender = "male"
+status = "inactive"
+
+[[users]]
+name = "Chitrangada Menon"
+email = ""
+gender = "female"
+status = "active"
+
 [[todos]]
 user_id = 3_304
 title = "Decerno deleo sapiente tepidus talio."

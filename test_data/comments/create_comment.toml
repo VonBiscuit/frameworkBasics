@@ -1,5 +1,10 @@
-[[comments]]
-post_id = ""
-name = "Prasad Ahuja"
+[[users]]
+name = "Aagam Chaturvedi"
 email = ""
-body = "Eveniet facere ea. Quasi est molestias. Et dolore facilis."
+gender = "female"
+status = "inactive"
+
+[[posts]]
+user_id = 3_274
+title = "Vivo arcus uter veritatis utrimque."
+body = "Non aro vulgo."
