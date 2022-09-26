@@ -1,0 +1,17 @@
+[[users]]
+name = "Ekaaksh Gowda"
+email = ""
+gender = "male"
+status = "inactive"
+
+[[users]]
+name = "Aagam Chaturvedi"
+email = ""
+gender = "female"
+status = "inactive"
+
+[[users]]
+name = "Aasa Adiga"
+email = ""
+gender = "female"
+status = "inactive"
